@@ -1,2 +1,2 @@
-# java-poo_faculdade
- Repositório para armazenar atividades da faculdade
+# java-basic-poo_faculdade
+ Repositório para as atividades da faculdade
